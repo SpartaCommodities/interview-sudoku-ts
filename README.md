@@ -2,7 +2,7 @@
 
 This is a Bun project ([https://bun.sh/](https://bun.sh/)) written using VSCode. It can be run from the CLI using `bun test` and has a watch mode `bun --watch test`.
 
-We will solve the exercise together during the interview. Use of Copilot and similar tooling is not allowed.
+You should practice the exercise before the interview, and we will solve it together from scratch during the interview. Use of Copilot and similar tooling is not allowed.
 
 The purpose of the exercise is to pair and code something within the time limit, not finding the most performant solution, or judging your code structure and naming conventions.
 
